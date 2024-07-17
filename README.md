@@ -47,4 +47,12 @@ Descripción breve de tu proyecto y su objetivo. Este proyecto fue realizado par
 4. Ejecuta la aplicación.
 
 # Creador::
-Este proyecto fue realizado por Grados Garcia Anthony
+Grados Garcia Anthony
+
+luisfavio0@gmail.com
+
+Formacion Java Orientado a Objetos G6 - ONE
+
+Alura Latam
+
+Oracle Next Education
